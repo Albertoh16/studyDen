@@ -2,6 +2,14 @@
 
 Study Buddy is a mobile application that turns studying into an interactive and rewarding experience. Users create their own personalized "Study Buddy" avatar and level it up by engaging with educational content and mini-games.
 
+# **Demo**
+
+<div align="center">
+
+[![Watch the demo](./videoDemoPNG.png)](./StudyDenDemo.mp4)
+
+</div>
+
 
 
 ## **FEATURES:**
