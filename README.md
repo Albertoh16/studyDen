@@ -6,7 +6,7 @@ Study Buddy is a mobile application that gamifies the learning experience by com
 
 ---
 
-## 🎥 Demo
+## Demo
 
 <div align="center">
 
@@ -56,7 +56,7 @@ Study Buddy is a mobile application that gamifies the learning experience by com
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Unity Game Engine**: C# for rich mobile game development
@@ -188,33 +188,3 @@ Combines SQLAlchemy ORM with Pydantic validation, providing type-safe database o
 
 ### Unity Game Engine
 Cross-platform game engine enabling rich graphics, smooth animations, and consistent mobile experience across iOS and Android.
-
----
-
-## 🧪 Testing
-
-### Backend Testing
-```bash
-# Install test dependencies
-pip install pytest pytest-cov
-
-# Run tests
-pytest
-
-# Run with coverage
-pytest --cov=. --cov-report=html
-```
-
-### API Testing
-Use the interactive documentation at `/docs` to test endpoints directly in the browser.
-
----
-
-## 🙏 Acknowledgments
-
-- **OpenAI**: For ChatGPT API powering question generation
-- **Tesseract**: Open-source OCR engine
-- **FastAPI**: Modern Python web framework
-- **Unity Technologies**: Game engine for mobile development
-- **SQLModel**: Elegant database ORM
-- **Open Source Community**: For tools and libraries that make this possible
